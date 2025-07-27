@@ -1,0 +1,39 @@
+.bg-img{
+  background-image: url('./image/background.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+h2{
+  color: lightskyblue;
+}
+
+  .text-body-emphasis{
+    color: lightpink!important;
+  }
+  .nav-link{
+    color:whitesmoke !important;
+
+  }
+  .background{
+    background-color: #212529;
+    border:solid 2px white;
+  }
+  .profile-img{
+    border-radius: 50% !important;
+    width: 150px;
+    height:150px;
+  }
+  table{
+    color: lightskyblue;
+  }
+  th{
+    font-size: 20px;
+  }
+  td{
+    font-size: 20px;
+  }
+  body{
+    background-color: rgb(245, 245, 245);
+  }
+  
